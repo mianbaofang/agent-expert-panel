@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Expert Panel"
+  short_description: "Design and audit multi-agent expert-team workflows."
+  default_prompt: "Use $agent-expert-panel to optimize this project into a multi-agent expert-team workflow."

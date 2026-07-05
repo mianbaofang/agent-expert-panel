@@ -1,0 +1,13 @@
+Create a cinematic 16:9 visual asset for an open-source AI skill demo.
+
+Canvas: 1536x864. Theme: a multi-agent expert panel workspace for software projects and skill design. Warm off-white and charcoal foundation with cobalt blue, teal, amber, and coral accents. Premium editorial technology style, refined, clear, not science-fiction dark, not corporate stock imagery.
+
+Scene:
+- A bright collaborative command room seen from a slightly elevated angle.
+- Four distinct specialist stations arranged around a shared project table.
+- Each station has a different visual role: research, architecture, implementation, review.
+- A central coordination surface connects the stations with luminous but restrained routing lines.
+- Include layered notes, diagrams, small interface panels, and artifact packages, but avoid readable text.
+- The composition should have depth, subtle paper and glass textures, and enough negative space for animation overlays.
+
+No humans, no faces, no logos, no watermarks, no long text, no tiny fake text. It should feel like a sophisticated visual metaphor for an expert AI team.

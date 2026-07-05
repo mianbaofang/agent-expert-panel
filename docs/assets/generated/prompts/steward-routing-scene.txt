@@ -1,0 +1,13 @@
+Create a 16:9 visual asset for an animation segment about multi-agent coordination.
+
+Canvas: 1536x864. Style: refined product-design illustration with cinematic lighting, warm off-white background, charcoal lines, cobalt blue, teal, amber, and coral accents. Mix vector clarity with subtle realistic material texture.
+
+Scene:
+- A central "steward" coordination hub represented as a calm circular console, not a robot.
+- Several task cards flow into the hub from the left.
+- The hub routes work into three clean lanes: research, build, review.
+- Each lane has a different icon-like workstation and a subtle capability-check gate.
+- The lanes converge into a synthesis area on the right.
+- Use arrows, paths, and modular panels, but avoid readable text except simple symbols such as check marks.
+
+Make it readable, balanced, and spacious, suitable for use behind animated labels. No logos, no watermarks, no random letters, no human faces.

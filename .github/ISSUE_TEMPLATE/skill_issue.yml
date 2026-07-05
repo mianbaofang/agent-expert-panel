@@ -1,0 +1,48 @@
+name: Skill issue
+description: Report a problem or improvement for agent-expert-panel.
+title: "[Skill]: "
+labels: ["skill"]
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: Scenario
+      description: What were you trying to design, audit, or optimize?
+      placeholder: "Example: I asked an agent to redesign a content pipeline as an expert panel..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+      description: What should the Skill have produced?
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: What did the Skill or host agent produce instead?
+    validations:
+      required: true
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Panel-fit check
+        - Steward design
+        - Expert member design
+        - Capability preflight
+        - Handoff contract
+        - Failure handling
+        - Decision trace
+        - Documentation
+        - Animation / visuals
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Add logs, prompts, or links if they are public-safe.

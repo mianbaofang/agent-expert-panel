@@ -1,0 +1,12 @@
+Create a polished 16:9 visual asset for an animation ending about multi-agent delivery.
+
+Canvas: 1536x864. Style: premium GitHub README visual, warm editorial technology, off-white paper, charcoal ink, cobalt blue, teal, amber, and coral accents. Detailed but calm.
+
+Scene:
+- A finished project package sits on a clean workbench.
+- Around it are a checklist, a decision trace ribbon, a capability matrix card, and a handoff contract sheet.
+- Three subtle expert contribution streams merge into the final package.
+- The mood is "ready to use, auditable, portable across coding agents".
+- Include crisp boxes, check marks, small diagrams, and layered documentation artifacts.
+
+Avoid readable paragraphs, fake UI text, logos, watermarks, and human faces. Leave clear empty zones where motion graphics can add captions later.

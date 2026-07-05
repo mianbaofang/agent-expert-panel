@@ -1,0 +1,27 @@
+Create a polished 16:9 editorial infographic for an open-source AI skill named "Agent Expert Panel".
+
+Canvas: 1536x864, clean GitHub README hero style, premium technical editorial design, warm off-white background, charcoal ink, cobalt blue, teal, amber, and coral accents. Use crisp vector-like shapes mixed with subtle realistic material textures, not a flat SVG-only look.
+
+Main title text exactly:
+Agent Expert Panel
+
+Subtitle text exactly:
+Multi-agent expert teams for skills and projects
+
+Structure the infographic as one complete system map with six large labeled modules. Render labels exactly, with no extra text:
+1. Trigger
+2. Steward
+3. Experts
+4. Workflow
+5. Handoff
+6. Decision Trace
+
+Visual story:
+- Left side: a "Trigger" module showing a single task entering the system.
+- Center: a "Steward" coordination hub, visually larger than the others.
+- Around the hub: three expert roles as distinct desks/cards, representing researcher, builder, and reviewer.
+- Lower band: workflow path showing preflight, routing, synthesis, delivery.
+- Right side: handoff package and quality checklist.
+- A thin decision trace line connects the full system.
+
+Make the layout readable at 1536x864. Use large typography only, no paragraphs, no tiny UI text, no random letters, no fake brand names, no watermarks. The image should look like a complete information graphic that can be embedded in a GitHub README.

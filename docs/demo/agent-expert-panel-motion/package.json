@@ -1,0 +1,16 @@
+{
+  "name": "agent-expert-panel-motion",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.7.33 preview",
+    "check": "npx --yes hyperframes@0.7.33 lint && npx --yes hyperframes@0.7.33 validate && npx --yes hyperframes@0.7.33 inspect",
+    "render": "npm run render:silent && npm run mix:music",
+    "render:silent": "npm run render:en:silent && npm run render:zh:silent",
+    "render:en:silent": "npx --yes hyperframes@0.7.33 render -o renders/agent-expert-panel.en.silent.mp4 --variables-file variables.en.json",
+    "render:zh:silent": "npx --yes hyperframes@0.7.33 render -o renders/agent-expert-panel.zh-CN.silent.mp4 --variables-file variables.zh-CN.json",
+    "mix:music": "node scripts/mix-music.mjs",
+    "render:gifs": "node scripts/render-preview-assets.mjs",
+    "publish": "npx --yes hyperframes@0.7.33 publish"
+  }
+}
