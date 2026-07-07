@@ -17,6 +17,10 @@
   ·
   <a href="docs/history/methodology-source.md">Methodology source</a>
   ·
+  <a href="ACKNOWLEDGEMENTS.md">Acknowledgements</a>
+  ·
+  <a href="DISCLAIMER.md">Disclaimer</a>
+  ·
   <a href="tests/TEST-CASES.md">Test cases</a>
   ·
   <a href="SECURITY_AUDIT.md">Security audit</a>
@@ -223,3 +227,5 @@ The public package includes the portable Skill contract, bilingual README files,
 MIT. The Skill, documentation, demo source, generated images, GIF previews, music, and rendered MP4 files in this repository are published as part of the open-source project under the MIT license.
 
 The repository does not include WorkBuddy private prompts, private product assets, or non-public implementation details. References to WorkBuddy and Ye Xiaochai's article are source attribution and methodology context only.
+
+See [DISCLAIMER.md](DISCLAIMER.md) and [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) for the full non-affiliation, attribution, and usage boundary notes.

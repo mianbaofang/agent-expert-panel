@@ -17,6 +17,10 @@
   ·
   <a href="docs/history/methodology-source.md">方法来源</a>
   ·
+  <a href="ACKNOWLEDGEMENTS.md">致谢</a>
+  ·
+  <a href="DISCLAIMER.md">免责声明</a>
+  ·
   <a href="tests/TEST-CASES.md">测试用例</a>
   ·
   <a href="SECURITY_AUDIT.md">安全审计</a>
@@ -224,3 +228,5 @@ cd docs/demo/agent-expert-panel-motion && npm run check
 MIT。仓库中的 Skill、文档、动画源码、生成图片、GIF 预览、背景音乐和最终 MP4 演示文件，均作为本开源项目的一部分按 MIT 协议发布。
 
 本仓库不包含 WorkBuddy 私有提示词、私有产品资产或非公开实现细节。README 中提到 WorkBuddy 和叶小钗文章，只用于来源致谢和方法论背景说明。
+
+完整的非关联声明、引用来源和使用边界见 [DISCLAIMER.md](DISCLAIMER.md) 与 [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md)。
