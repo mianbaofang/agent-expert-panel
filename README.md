@@ -17,9 +17,9 @@
   ·
   <a href="docs/history/methodology-source.md">Methodology source</a>
   ·
-  <a href="ACKNOWLEDGEMENTS.md">Acknowledgements</a>
-  ·
   <a href="DISCLAIMER.md">Disclaimer</a>
+  ·
+  <a href="ACKNOWLEDGEMENTS.md">Acknowledgements</a>
   ·
   <a href="tests/TEST-CASES.md">Test cases</a>
   ·
@@ -27,6 +27,16 @@
   ·
   <a href="CHANGELOG.md">Changelog</a>
 </p>
+
+## Why This Skill Exists
+
+Multi-agent work usually fails for a boring reason: the agents are named, but the collaboration system is not designed.
+
+If there is no steward, no capability preflight, no handoff contract, no conflict rule, and no final decision trace, "use several agents" quickly becomes a pile of confident partial answers. This Skill turns that loose idea into a portable workflow design method for any Skill-compatible coding agent.
+
+Use it when a project, Skill, research workflow, content pipeline, or product process has become too broad for one prompt and needs a repeatable expert-team structure.
+
+This Skill does not spawn subagents by itself. It teaches the host agent how to decide whether a panel is warranted, define a steward, design specialist members, route work, collect artifacts, handle failure, and deliver an auditable final package.
 
 Agent Expert Panel is a reusable Skill for turning broad agent work into a coordinated expert team: one steward, clear specialist roles, handoff contracts, conflict handling, and a final decision trace.
 
@@ -40,16 +50,6 @@ Agent Expert Panel is a reusable Skill for turning broad agent work into a coord
 | What does it output? | A steward role, expert-member design, routing rules, handoff contracts, and validation gates. |
 | What does it not do? | It does not launch subagents by itself or claim private WorkBuddy prompt access. |
 | Best first use | Ask a Skill-compatible agent to read `skill/SKILL.md` and redesign one existing workflow. |
-
-## Why This Skill Exists
-
-Multi-agent work usually fails for a boring reason: the agents are named, but the collaboration system is not designed.
-
-If there is no steward, no capability preflight, no handoff contract, no conflict rule, and no final decision trace, "use several agents" quickly becomes a pile of confident partial answers. This Skill turns that loose idea into a portable workflow design method for any Skill-compatible coding agent.
-
-Use it when a project, Skill, research workflow, content pipeline, or product process has become too broad for one prompt and needs a repeatable expert-team structure.
-
-This Skill does not spawn subagents by itself. It teaches the host agent how to decide whether a panel is warranted, define a steward, design specialist members, route work, collect artifacts, handle failure, and deliver an auditable final package.
 
 ## Methodology Source And Acknowledgements
 
