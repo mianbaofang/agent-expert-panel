@@ -34,7 +34,16 @@ Use it when a project, Skill, research workflow, content pipeline, or product pr
 
 This Skill does not spawn subagents by itself. It teaches the host agent how to decide whether a panel is warranted, define a steward, design specialist members, route work, collect artifacts, handle failure, and deliver an auditable final package.
 
-## Methodology Source And Thanks
+## At A Glance
+
+| Question | Answer |
+|---|---|
+| Who is it for? | People building broad Skill, agent, research, product, or content workflows. |
+| What does it output? | A steward role, expert-member design, routing rules, handoff contracts, and validation gates. |
+| What does it not do? | It does not launch subagents by itself or claim private WorkBuddy prompt access. |
+| Best first use | Ask a Skill-compatible agent to read `skill/SKILL.md` and redesign one existing workflow. |
+
+## Methodology Source And Acknowledgements
 
 The starting point is Ye Xiaochai's public article on 人人都是产品经理: [WorkBuddy专家团提示词全曝光：多Agent协作原来是这样产品化的](https://www.woshipm.com/ai/6424770.html).
 
@@ -204,6 +213,10 @@ If you change Skill behavior, update:
 - `README.zh-CN.md`
 - `tests/TEST-CASES.md`
 - `CHANGELOG.md`
+
+## Status
+
+The public package includes the portable Skill contract, bilingual README files, test prompts, contribution rules, security audit, generated visuals, and bilingual HyperFrames demo source. It is ready to use as methodology guidance in any Skill-compatible agent runtime.
 
 ## License
 

@@ -34,6 +34,15 @@
 
 它本身不负责启动子 Agent。它负责教宿主 Agent 如何判断是否值得启用专家团、如何定义主理人、如何设计专家成员、如何路由任务、如何收集产物、如何处理失败，以及如何交付一份可审计的最终方案。
 
+## 一眼看懂
+
+| 问题 | 回答 |
+|---|---|
+| 适合谁 | 正在设计宽任务 Skill、Agent、研究流程、产品流程或内容生产线的人。 |
+| 会输出什么 | 主理人角色、专家成员设计、路由规则、交接契约和验收门。 |
+| 不做什么 | 不自己启动子 Agent，也不声称拥有 WorkBuddy 私有提示词。 |
+| 最适合的第一次使用 | 让支持 Skill 的 Agent 读取 `skill/SKILL.md`，然后改造一个现有工作流。 |
+
 ## 方法来源与致谢
 
 这个 Skill 的起点来自叶小钗在人人都是产品经理发布的文章：[《WorkBuddy专家团提示词全曝光：多Agent协作原来是这样产品化的》](https://www.woshipm.com/ai/6424770.html)。
@@ -205,6 +214,10 @@ cd docs/demo/agent-expert-panel-motion && npm run check
 - `README.zh-CN.md`
 - `tests/TEST-CASES.md`
 - `CHANGELOG.md`
+
+## 状态
+
+当前公开包已经包含可迁移的 Skill 契约、中英文 README、测试提示、贡献规则、安全审计、生成视觉和双语 HyperFrames 动画源码。它可以作为方法论指导，直接交给支持 Skill 的 Agent 运行。
 
 ## 开源协议
 
